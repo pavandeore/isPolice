@@ -1,0 +1,19 @@
+*{
+    font-family: arial;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    padding: 30px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+h3 > li{
+    text-align: left;
+}
+.footer{
+    padding: 20px;
+    text-align: center;
+    background-color: cadetblue;
+}
